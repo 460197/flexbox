@@ -4,8 +4,8 @@
 }
 .column0
 {
+    background-color: gray;
     display: flex;
-    justify-content: space-between;
     align-items: center;
     width: 100%;
 }
@@ -15,7 +15,7 @@
 }
 .column2
 {
-    background-color: gray;
+    margin-left: calc(50% - 133px);
 }
 article
 {
@@ -29,6 +29,5 @@ article
 }
 .column4
 {
-    display:flex;
     justify-content:flex-end;
 }
